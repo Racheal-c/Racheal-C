@@ -1,21 +1,7 @@
 ## About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Electronic Engineering Student**
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](https://www.linkedin.com/in/racheal-chek-551b641b9/l) and ![Image](src)
 ``
