@@ -1,1 +1,1 @@
-# Trying to create my own web page with juststarting to learn more about HTML.
+# Trying to create my own web page with just starting to learn more about HTML.
