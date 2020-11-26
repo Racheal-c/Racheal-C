@@ -17,5 +17,4 @@ Love learning novel things.
 ![foo](<https://content.instructables.com/ORIG/F8C/3XD2/KBJR3YL7/F8C3XD2KBJR3YL7.jpg?auto=webp&frame=1&fit=bounds&md=b71396a00f4029e25aa46ec2fbb08899>)
 **See more**(https://www.instructables.com/Arduino-Simulation-Using-Tinkercad-Circuit/)
 
-# [Linkedin](https://www.linkedin.com/in/racheal-chek-551b641b9/l) 
-**Racheal Chek**
+# [Linkedin-Racheal Chek](https://www.linkedin.com/in/racheal-chek-551b641b9/l) 
