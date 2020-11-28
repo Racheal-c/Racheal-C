@@ -1,6 +1,6 @@
 # About
 
-**Electronic Engineering Student**
+**Electronic Engineering Student** 
 
 I'm a student currently studying  in Universiti Tun Hussein Onn Malaysia (UTHM).
 
@@ -16,5 +16,9 @@ Love learning novel things.
 
 ![foo](<https://content.instructables.com/ORIG/F8C/3XD2/KBJR3YL7/F8C3XD2KBJR3YL7.jpg?auto=webp&frame=1&fit=bounds&md=b71396a00f4029e25aa46ec2fbb08899>)
 [See more](https://www.instructables.com/Arduino-Simulation-Using-Tinkercad-Circuit/)
+
+**Matlab GUI**
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/wKH55nO6jX0)
 
 # [Linkedin-Racheal Chek](https://www.linkedin.com/in/racheal-chek-551b641b9/l) 
