@@ -1,1 +1,5 @@
-# Trying to create my own web page with just starting to learn more about HTML, CSS
+## Racheal C
+
+# Feel free to learn HTML, CSS, JS by creating your own website.
+# You may clone and use it for your project.
+# Happy learning!
