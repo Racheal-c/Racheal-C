@@ -21,6 +21,14 @@
   html {
   scroll-behavior: smooth;
 }
+    #About { 
+  height: 900px;
+  background-color:#015045;
+}
+
+#Projects {
+  height: 500px;
+}
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .w3-bar,h1,button {font-family: "Montserrat", sans-serif}
 .fa-linkedin {
@@ -39,9 +47,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   <div class="w3-bar w3-red w3-card w3-left-align w3-large">
     <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
     <a href="https://racheal-c.github.io/RachealC/" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Home</a>
-    <a href="https://racheal-c.github.io/RachealC/" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">About</a>
+    <a href="#About" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">About</a>
     <a href="https://github.com/Racheal-c/RachealC/blob/gh-pages/Racheal's%20cv.pdf" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">MyResume</a>
-    <a href="https://racheal-c.github.io/RachealC/" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Projects</a>
+    <a href="#Projects" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Projects</a>
     <a href="https://www.linkedin.com/in/rachealchek/" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Contact</a>
     <a href="https://rachealxr.medium.com/" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Articles</a>
   </div>
@@ -49,9 +57,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   <!-- Navbar on small screens -->
   <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
     <a href="https://racheal-c.github.io/RachealC/" class="w3-bar-item w3-button w3-padding-large">Home</a>
-    <a href="https://racheal-c.github.io/RachealC/ " class="w3-bar-item w3-button w3-padding-large">About </a>
+    <a href="#About"class="w3-bar-item w3-button w3-padding-large">About </a>
     <a href="https://github.com/Racheal-c/RachealC/blob/gh-pages/Racheal's%20cv.pdf" class="w3-bar-item w3-button w3-padding-large">MyResume</a>
-    <a href="https://racheal-c.github.io/RachealC/" class="w3-bar-item w3-button w3-padding-large">Projects</a>
+    <a href="#Projects"class="w3-bar-item w3-button w3-padding-large">Projects</a>
     <a href="https://www.linkedin.com/in/rachealchek/" class="w3-bar-item w3-button w3-padding-large">Contact</a>
     <a href="https://rachealxr.medium.com/" class="w3-bar-item w3-button w3-padding-large">Articles</a>
   </div>
@@ -64,42 +72,44 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 </header>
 
 <!-- First Grid -->
-<div class="w3-row-padding w3-padding-64 w3-container">
-  <div class="w3-content">
-    <div class="w3-twothird">
-    <h1>About</h1>
+<div id="About">
+<div class="w3-row-padding w3-padding-64 w3-container"id="#About">
+  <div class="w3-content"id="#About">
+    <div class="w3-twothird"id="#About">
+   
+   <h1 class="w3-text-white"><b>About</b></h1>
       
-      <h5 class="w3-padding-32">Tech & Nature Enthusiast. An electronic engineering student and leader who always curious and excited to learn more as we are living in the world of constant flux.</h5>
-
-      <p class="w3-text-grey">Head of Department of Student Affairs- Institute Engineers Malaysia Student Section (IEMSS UTHM).</p>
-       <p class="w3-text-grey">Currently studying Bachelor of Hons Electronic Engineering in Universiti Tun Hussein Onn Malaysia (UTHM)</p>
+      <h4 class="w3-padding-32 w3-text-white">Tech & Nature Enthusiast. An electronic engineering student and leader who always curious and excited to learn more as we are living in the world of constant flux.</h5>
+ 	  <p class="w3-text-white">Microsoft Learn Student Ambassadors (MLSA)</p>
+      <p class="w3-text-white">Head of Department of Student Affairs- Institute Engineers Malaysia Student Section (IEMSS UTHM).</p>
+       <p class="w3-text-white">Currently studying Bachelor of Hons Electronic Engineering in Universiti Tun Hussein Onn Malaysia (UTHM)</p>
     </div>
 
     <div class="w3-third w3-center">
-     <i class="material-icons" style="font-size:200px;color:lightblue;">cloud</i>
+     <i class="material-icons" style="font-size:200px;color:white;">cloud</i>
     </div>
   </div>
 </div>
 
 <!-- Second Grid -->
-<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
-  <div class="w3-content">
-    <div class="w3-third w3-center">
-  	<i class="material-icons" style="font-size:200px;color:lightblue;">computer</i>
+<div id="Projects">
+<div class="w3-row-padding w3-yellow w3-padding-64 w3-container"id="Projects">
+  <div class="w3-content"id="Projects">
+    <div class="w3-third w3-center"id="Projects">
+  	<i class="material-icons" style="font-size:200px;color:black;">computer</i>
     </div>
 
     <div class="w3-twothird">
-      <h1>Projects</h1>
-      <h5 class="w3-padding-32">1. Arduino Simulation in Tinkercad. 
-       </h5>
-        <p5 class="w3-text-grey">Demonstrate how to use Arduino in Tinkercad with collobration with peers. </p5>
-        <p5> <a href="https://www.instructables.com/Arduino-Simulation-Using-Tinkercad-Circuit/"></p5>
-          See more</a>
+      <h1><b>Projects</b></h1>
+      <h4 class="w3-padding-38">1. Arduino Simulation in Tinkercad 
+        <br><br><p5 class="w3-text-black">Demonstrate how to use Arduino in Tinkercad with peers. </p5>
+        <br> <p6 class="w3-text-black"><a href="https://www.instructables.com/Arduino-Simulation-Using-Tinkercad-Circuit/">See more</a>
+         <br>
+       <br><h4 class="w3-padding-38">2. GUI to show the Dual-tone multi-frequency (DTMF) signal generator
+       <br><br><p5 class="w3-text-black">Demonstrate DTMF Signal Generator using MATLAB. </p5>
+       <p5 class="w3-text-black"><a href="https://youtu.be/wKH55nO6jX0/">See more</a></p5>
       
-       <h5 class="w3-padding-32">2. GUI to show the Dual-tone multi-frequency (DTMF) signal generator
-       </h5>
-        <a href="https://youtu.be/wKH55nO6jX0"> See more</a>
-    </div>
+   </div>
   </div>
 </div>
 
